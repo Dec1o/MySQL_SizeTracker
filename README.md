@@ -13,6 +13,7 @@ config.json: Este arquivo contém as informações de configuração: Host, usu�
 # Configurações:
 
 Antes de executar os scripts, é necessário configurar as informações no arquivo config.json. Este arquivo deve conter as seguintes informações:
+
 "host": O endereço IP ou o nome do host do servidor MySQL.
 
 "user": O nome de usuário para autenticação no servidor MySQL.
