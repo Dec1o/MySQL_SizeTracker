@@ -4,8 +4,10 @@ O projeto consiste em um conjunto de scripts Python para medir o tamanho de um b
 
 # Estrutura do Projeto:
 
-DataBase.py: Este script é responsável por medir o tamanho total de um banco de dados MySQL.
-Table.py: Este script é responsável por medir o tamanho de uma tabela específica dentro de um banco de dados MySQL.
+DataBase.py: Este script é responsável por medir o tamanho total de um banco de dados MySQL. \n
+
+Table.py: Este script é responsável por medir o tamanho de uma tabela específica dentro de um banco de dados MySQL. \n
+
 config.json: Este arquivo contém as informações de configuração: Host, usuário, senha, nome do banco e da tabela a serem usadas pelos scripts.
 
 # Configurações:
