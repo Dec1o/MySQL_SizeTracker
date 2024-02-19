@@ -24,7 +24,7 @@ def get_table_size(host, user, password, database, table):
     return table_size['size_mb'] if table_size else None
 
 # Carregar configurações do arquivo JSON
-with open('C:/Users/DécioCarvalhoFariaFa/VsCode/TAM_Banco/venv/config.json') as f:
+with open('local do arquivo .JSON com as credenciais') as f:
     config = json.load(f)
 
 host = config['host']
